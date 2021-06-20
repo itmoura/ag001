@@ -7,7 +7,7 @@
 """
 
 # Import de bibliotecas para ser feito os calculos
-from sympy import Limit, Symbol, S, sin
+from sympy import Limit, Symbol, S
 
 # Constante C, minha matricula(96) resto por 10
 c = 96 % 10
