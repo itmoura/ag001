@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 c = 96 % 10
 
 def funcOne(x):
-    return e**(x-3) + e**(x-1) + e**x -c -1
+    return e**(x-3) + e**(x-1) + e**x - c -1
 
 def funcTwo(x):
     return x**4 - 4*(x**3) + 3*x - c
@@ -46,13 +46,13 @@ plt.grid()
 plt.show()
 
 # Resolve a equação funcTwo
-res = solve(Derivative(funcTwo(x), x, 2).doit())
+res = solve(funcTwo(x))
 
 print('Resposta da equação: x^4 - 4*x^3 + 3*x = c')
 print(res)
 
-# print('Resposta da equação Derivando: x^4 - 4*x^3 + 3*x = c')
-# print("Derivadando --> ", Derivative(funcTwo(x), x).doit())
+print('Resposta da equação Derivando: x^4 - 4*x^3 + 3*x = c')
+print("Derivadando --> ", Derivative(funcTwo(x), x).doit())
 print("\n")
 ###### EXERCICIO 5 -> TERCEIRA EQUAÇÃO
 # Resolve a equação funcThree.

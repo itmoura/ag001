@@ -16,7 +16,7 @@ def func(x):
 x = Symbol('x')
 
 #Calcula a integral definida para x entre 0 e 5.
-Resultado = Integral(func(x), (x, 0, 5)).doit()
+res = Integral(func(x), (x, 0, 5)).doit()
 
 print ('Integral definida para x entre 0 e 5.')
-print (Resultado)
+print (res)

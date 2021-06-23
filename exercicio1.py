@@ -5,7 +5,6 @@
 
     Autor: Ítalo Thalyson de Moura
 """
-
 # Import de bibliotecas para ser feito os calculos
 from sympy import Limit, Symbol, S
 
