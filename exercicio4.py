@@ -5,7 +5,7 @@
 
     Autor: Ítalo Thalyson de Moura
 """
-from sympy import Symbol, solve, linsolve
+from sympy import Symbol, solve
 
 # Constante C, minha matricula(96) resto por 10
 c = 96 % 10
