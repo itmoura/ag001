@@ -15,14 +15,14 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Feito isso, você deve executar o clone do projeto na sua máquina **[AG001](https://github.com/itmoura/ag001)**. <br>
 Copie o link .git > abra o GitBash na pasta de sua preferência
 <p align="center">
-    <img align="center" src="https://github.com/itmoura/ag001/img_readme/clone-project.png" width="300px;"/>
-    <img align="center" src="https://github.com/itmoura/ag001/img_readme/gitbash-here.png" width="300px;"/>
+    <img align="center" src="https://github.com/itmoura/ag001/blob/main/img_readme/clone-project.png" width="300px;"/>
+    <img align="center" src="https://github.com/itmoura/ag001/blob/main/img_readme/gitbash-here.png" width="300px;"/>
 </p>
 
 Com o terminal GitBash aberto, escreva -> git clone https://github.com/itmoura/ag001.git (Link copiado no primeiro passo) > ENTER
 Com isso executado, será feito o download do projeto
 <p align="center">
-    <img align="center" src="https://github.com/itmoura/ag001/img_readme/command-gitclone.png" width="300px;"/>
+    <img align="center" src="https://github.com/itmoura/ag001/blob/main/img_readme/command-gitclone.png" width="300px;"/>
 </p>
 
 Recomendações:
@@ -32,14 +32,14 @@ Recomendações:
 Para executar o projeto via IDE:
 * Basta abrir o projeto no PyCharm:
 <p align="center">
-    <img align="center" src="https://github.com/itmoura/ag001/img_readme/open-project-ide.png" width="300px;"/> 
-    <img align="center" src="https://github.com/itmoura/ag001/img_readme/encontre-pasta-ok.png" width="300px;"/>
+    <img align="center" src="https://github.com/itmoura/ag001/blob/main/img_readme/open-project-ide.png" width="300px;"/> 
+    <img align="center" src="https://github.com/itmoura/ag001/blob/main/img_readme/encontre-pasta-ok.png" width="300px;"/>
 </p>
 
 * Selecionar o exercicio que queira executar:
 <p align="center">
-    <img align="center" src="https://github.com/itmoura/ag001/img_readme/selecione-projeto.png" width="300px;"/> 
-    <img align="center" src="https://github.com/itmoura/ag001/img_readme/execute-projeto.png" width="300px;"/>
+    <img align="center" src="https://github.com/itmoura/ag001/blob/main/img_readme/selecione-projeto.png" width="300px;"/> 
+    <img align="center" src="https://github.com/itmoura/ag001/blob/main/img_readme/execute-projeto.png" width="300px;"/>
 </p>
 
 ---
